@@ -7,7 +7,7 @@ This is the repository containing my study project related to building a SOAP We
 To implement the SOAP Web Service with Spring, I used the following tutorials and articles:
 
 * [Creating a SOAP Web Service with Spring](https://www.baeldung.com/spring-boot-soap-web-service)
-* [Producing a SOAP web service](https://github.com/Y4j1QTJYfBZBwp0/spring-soap-application)
+* [Producing a SOAP web service](https://spring.io/guides/gs/producing-web-service/)
 * [Spring Boot SOAP Web Service Example](https://www.concretepage.com/spring-boot/spring-boot-soap-web-service-example#CrudRepository)
 * [Developing SOAP Web Services with Spring Boot: A Comprehensive Guide](https://medium.com/@extio/developing-soap-web-services-with-spring-boot-a-comprehensive-guide-1d4f89bc3127)
 
