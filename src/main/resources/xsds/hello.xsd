@@ -1,0 +1,20 @@
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        xmlns:tns="http://example.com/helloworld-ws"
+        targetNamespace="http://example.com/helloworld-ws"
+        elementFormDefault="qualified">
+
+    <element name="getHelloRequest">
+        <complexType>
+            <sequence>
+                <element name="name" type="string"/>
+            </sequence>
+        </complexType>
+    </element>
+    <element name="getHelloResponse">
+        <complexType>
+            <sequence>
+                <element name="greeting" type="string"/>
+            </sequence>
+        </complexType>
+    </element>
+</schema>
